@@ -114,4 +114,49 @@ Guides developers in system design and helps testers create relevant test cases.
 4. 📦 Organizes Scope
 Clearly defines what’s inside and outside the system’s boundaries, helping manage scope.
 <img width="740" height="671" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/52003bd7-8f01-4b77-8f77-c3d1b0eda056" />
+# Acceptance Criteria.
+Acceptance Criteria are essential in Requirement Analysis because they define the specific conditions under which a requirement is considered successfully implemented. They serve as a bridge between stakeholders and developers, ensuring clarity, alignment, and quality throughout the Software Development Life Cycle (SDLC).
+🧾 User Story
+As a customer, I want to complete my booking through a secure checkout process, So that I can confirm my reservation and receive a payment receipt.
+
+✅ Acceptance Criteria
+Booking Summary Displayed
+
+Given the user has selected a service and time slot,
+
+When they proceed to checkout,
+
+Then the system must display a summary including service details, date, time, and total cost.
+
+Payment Options Available
+
+Given the user is on the checkout page,
+
+When they choose to pay,
+
+Then the system must offer at least two payment methods (e.g., credit card, mobile wallet).
+
+Secure Payment Processing
+
+Given the user enters valid payment details,
+
+When they submit the payment,
+
+Then the system must process the payment securely and confirm success or failure.
+
+Confirmation Message Sent
+
+Given the payment is successful,
+
+When the transaction is complete,
+
+Then the system must send a confirmation email or SMS with booking and payment details.
+
+Error Handling
+
+Given the payment fails,
+
+When the user is notified,
+
+Then the system must allow them to retry or choose a different payment method.
 
