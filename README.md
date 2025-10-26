@@ -28,3 +28,14 @@ By identifying functional and non-functional requirements early, teams can desig
 
 3. 💰 Cost and Time Efficiency
 Thorough requirement analysis minimizes errors and misunderstandings, which can lead to costly revisions later. It allows for accurate project planning, budgeting, and scheduling—saving time and resources throughout development.
+# Key Activities in Requirement Analysis.
+- Requirement Gathering
+  Requirement Gathering is the foundational step in the Software Development Life Cycle (SDLC) where project stakeholders identify, collect, and document what the software system needs to achieve. It ensures that the final product aligns with user expectations and business   goals.
+- Requirement Elicitation
+  Requirement Elicitation is the process of actively gathering information from stakeholders to understand what a software system must do. It’s a critical step in the Software Development Life Cycle (SDLC) that ensures the final product meets user needs and business goals.
+- Requirement Documentation
+  Requirement Documentation is the process of recording all the gathered and elicited requirements in a structured format that guides the entire software development lifecycle (SDLC). It serves as a formal agreement between stakeholders and the development team, ensuring clarity, consistency, and traceability throughout the project.
+- Requirement Analysis and Modeling
+  Requirement Analysis and Modeling are essential steps in the Software Development Life Cycle (SDLC) that help transform user needs into a structured blueprint for system design and development.
+- Requirement Validation
+  Requirement Validation is the process of ensuring that the documented requirements accurately reflect the needs and expectations of stakeholders and are feasible for implementation. It is a critical step in the Software Development Life Cycle (SDLC) that helps prevent costly errors later in the project.
