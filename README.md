@@ -99,3 +99,19 @@ Maintenance windows must be announced at least 48 hours in advance.
 
 5. 🔄 Scalability
 The system should be able to scale to support double the current user base without major architectural changes.
+# Use Case Diagrams.
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (called "actors") and a system to achieve specific goals. They are commonly used during the requirements analysis phase of software development to capture functional requirements.
+🌟 Benefits of Use Case Diagrams:
+1. ✅ Clarifies Functional Requirements
+Helps stakeholders understand what the system will do from a user’s perspective.
+
+2. 🤝 Improves Communication
+Bridges the gap between technical teams and non-technical stakeholders using simple visuals.
+
+3. 🧠 Supports Design and Testing
+Guides developers in system design and helps testers create relevant test cases.
+
+4. 📦 Organizes Scope
+Clearly defines what’s inside and outside the system’s boundaries, helping manage scope.
+<img width="740" height="671" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/52003bd7-8f01-4b77-8f77-c3d1b0eda056" />
+
