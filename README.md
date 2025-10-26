@@ -113,7 +113,8 @@ Guides developers in system design and helps testers create relevant test cases.
 
 4. 📦 Organizes Scope
 Clearly defines what’s inside and outside the system’s boundaries, helping manage scope.
-<img width="740" height="671" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/52003bd7-8f01-4b77-8f77-c3d1b0eda056" />
+<img width="740" height="671" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/a11bf745-7cf5-46ad-bd20-b7fdfaf75b89" />
+
 # Acceptance Criteria.
 Acceptance Criteria are essential in Requirement Analysis because they define the specific conditions under which a requirement is considered successfully implemented. They serve as a bridge between stakeholders and developers, ensuring clarity, alignment, and quality throughout the Software Development Life Cycle (SDLC).
 🧾 User Story
