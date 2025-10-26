@@ -39,3 +39,63 @@ Thorough requirement analysis minimizes errors and misunderstandings, which can 
   Requirement Analysis and Modeling are essential steps in the Software Development Life Cycle (SDLC) that help transform user needs into a structured blueprint for system design and development.
 - Requirement Validation:-
   Requirement Validation is the process of ensuring that the documented requirements accurately reflect the needs and expectations of stakeholders and are feasible for implementation. It is a critical step in the Software Development Life Cycle (SDLC) that helps prevent costly errors later in the project.
+# Types of Requirements.
+## Functional Requirements
+Functional requirements are the core actions and operations the system must perform to meet user needs. They are typically derived from use cases, business rules, and stakeholder expectations.
+
+🧾 Examples for a Booking Management Project:
+1. 🗓️ Create a Booking
+Users must be able to select a date, time, and service to create a booking.
+
+The system should validate availability before confirming the booking.
+
+2. 🔍 View Booking Details
+Users and admins can view booking information including date, time, service, and status.
+
+Admins can filter bookings by customer name, date range, or service type.
+
+3. ✏️ Modify or Cancel a Booking
+Users can update or cancel their bookings within a defined time window.
+
+The system should send confirmation emails upon changes.
+
+4. 📧 Send Notifications
+The system must send email or SMS reminders to users before their scheduled booking.
+
+Admins receive alerts for new or canceled bookings.
+
+5. 🔐 User Authentication
+Users must log in or register to access booking features.
+
+Admins have elevated access to manage all bookings and user accounts.
+
+6. 📊 Generate Reports
+Admins can generate daily, weekly, or monthly booking reports.
+
+Reports include metrics like total bookings, cancellations, and peak hours.
+## Non-functional Requirements
+Non-functional requirements specify the criteria used to judge the operation of a system, rather than specific behaviors or functions. They are crucial for user satisfaction and system performance.
+
+🧾 Examples for a Booking Management Project:
+1. ⚡ Performance
+The system must handle up to 500 concurrent users without performance degradation.
+
+Booking confirmation should be processed within 2 seconds of submission.
+
+2. 🔐 Security
+All user data must be encrypted using AES-256 encryption.
+
+Users must authenticate using multi-factor authentication (MFA) before accessing their accounts.
+
+3. 📱 Usability
+The interface should be mobile-responsive and accessible on all major browsers.
+
+New users should be able to complete a booking within 3 minutes without training.
+
+4. 🕒 Availability
+The system should be available 99.9% of the time, excluding scheduled maintenance.
+
+Maintenance windows must be announced at least 48 hours in advance.
+
+5. 🔄 Scalability
+The system should be able to scale to support double the current user base without major architectural changes.
